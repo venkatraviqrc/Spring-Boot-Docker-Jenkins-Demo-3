@@ -1,0 +1,179 @@
+[33mcommit e5a826c1b84ba76ce6a418f206164bde0b49d876[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Fri May 8 10:21:58 2026 +0000
+
+    add these files
+
+[33mcommit f81042e4d94cfa8a2c3dec8039255d82b4a6d707[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 10:10:59 2026 +0000
+
+    webhook test
+
+[33mcommit 304f08c2e98de1c79815b3e49d3d643f24c4a470[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 10:07:00 2026 +0000
+
+    some changes
+
+[33mcommit cf88c5d6840d8b8d9e52988ffc2812b3c346229f[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 07:15:18 2026 +0000
+
+    webhook test
+
+[33mcommit e6b3465a5e0b3e9fb6554f520becfd348ba57fd1[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 07:10:09 2026 +0000
+
+    Updated Jenkinsfile
+
+[33mcommit 73a5b987993d24827f2a752592257eb2e02bf3e6[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 07:05:18 2026 +0000
+
+    Updated Jenkinsfile
+
+[33mcommit 9df175cf0d6481c2d788d8e9a1f348385e8d37cb[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 07:03:51 2026 +0000
+
+    Updated Jenkinsfile
+
+[33mcommit 0826664fa2f55f48cf88b3fec4cc05b695ee9839[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 07:01:35 2026 +0000
+
+    Updated Jenkinsfile
+
+[33mcommit 50a7760b96cfa71f62cec0f4544d43c59904aedd[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:58:09 2026 +0000
+
+    updated Jenkinsfile
+
+[33mcommit 6f21af761e32d0a84914533da0d8a5e16d999cd7[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:55:10 2026 +0000
+
+    updated Jenkinsfile
+
+[33mcommit af56b7c48f8349884ee0427fdc451ac004419716[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:43:57 2026 +0000
+
+    updated Dockerfile
+
+[33mcommit 807911f7ade9e806c580c9acccc924d61a9ee9dd[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:36:11 2026 +0000
+
+    updated jenkinsfile
+
+[33mcommit 7d8b2a7fa1fb9a4c1c91c129c3ea819d98fc104f[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:34:58 2026 +0000
+
+    updated jenkinsfile
+
+[33mcommit 5755c47a318bce62f592a6969b7022ed1370ba3c[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:31:10 2026 +0000
+
+    updated Jenkinsfile
+
+[33mcommit b03ecc41e06e89748ce61719027145401aa01e6f[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:29:53 2026 +0000
+
+    updated Jenkinsfile
+
+[33mcommit 1df9147f832181553357b0961f0e593665bd6000[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:26:26 2026 +0000
+
+    updated Jenkinsfile
+
+[33mcommit 2b7aa8fb1a3f20520a81221e025aa950f0f1f29f[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:23:06 2026 +0000
+
+    updated Jenkinsfile
+
+[33mcommit 48f8559f600f7a409ea8f5c3d499493ec1850f55[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:21:26 2026 +0000
+
+    updated Jenkinsfile
+
+[33mcommit 85c1d5c0331624740ceaba62d05a9a41b3f3e9f7[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:19:59 2026 +0000
+
+    Jenkinsfile updated
+
+[33mcommit 855075db28e4f4fdda7ab098a74ec4de0fa37cad[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Sat May 2 06:16:57 2026 +0000
+
+    updated Dockerfile
+
+[33mcommit 104c8220d9010761cee1196ac51ab5988f354f22[m
+Author: venkatraviqrc <venkatraviqrc@gmail.com>
+Date:   Sat May 2 11:25:36 2026 +0530
+
+    Update Dockerfile
+
+[33mcommit 9f05c94fdb6e1851e6e05e72d7c1acd18b7508a5[m
+Author: venkatraviqrc <venkatraviqrc@gmail.com>
+Date:   Sat May 2 11:01:04 2026 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 411e8f08f22534b9bcd73b3258eec34192d1b6a4[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Thu Apr 30 12:38:06 2026 +0000
+
+    fixed pipeline sytax
+
+[33mcommit 5bba0e848b3b005a3942eca6970b3f2c276043ed[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Thu Apr 30 12:31:21 2026 +0000
+
+    fixed HomeController Error
+
+[33mcommit 68aa8f0e6332582cfe2758feac8e66dcc3701731[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Thu Apr 30 12:17:19 2026 +0000
+
+    added 3 beside maven
+
+[33mcommit 86213240f6d9b9c27db37e3199ab0d7b54408ccd[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Thu Apr 30 11:58:49 2026 +0000
+
+    updated pipeline and controller
+
+[33mcommit 2fd618e3f56e2b09cd791a49e63cad83c0b1c835[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Thu Apr 30 11:44:55 2026 +0000
+
+    fixed port to 8080
+
+[33mcommit 459a40478752504bd7b0a07eda4dc87237621185[m
+Author: Ubuntu <ubuntu@ip-172-31-35-145.ap-south-1.compute.internal>
+Date:   Thu Apr 30 09:50:46 2026 +0000
+
+    webhook test
+
+[33mcommit 1345523f79a6d72e9d997449ba19abe1c9271bab[m
+Author: venkatraviqrc <venkatraviqrc@gmail.com>
+Date:   Tue Apr 7 06:51:21 2026 +0000
+
+    removed nested git repo
+
+[33mcommit 231bcb0304cb35fe070d1b587b5048fad17d760e[m
+Author: venkatraviqrc <venkatraviqrc@gmail.com>
+Date:   Mon Apr 6 09:58:55 2026 +0000
+
+    removed target and large files

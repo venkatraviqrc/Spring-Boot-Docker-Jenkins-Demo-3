@@ -1,3 +1,9 @@
 target/
+*.log
+*.jar
+.idea/
+.classpath
+.project
+.settings/target/
 *.war
 *.class
