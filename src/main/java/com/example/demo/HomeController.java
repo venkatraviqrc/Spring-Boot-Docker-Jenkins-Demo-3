@@ -8,7 +8,7 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "App Running";
+        return "App Running via Jenkins";
     }
 
     @GetMapping("/hello")
